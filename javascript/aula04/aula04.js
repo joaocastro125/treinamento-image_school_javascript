@@ -74,7 +74,6 @@ console.log(pessoa1.name)
 
 // array 
 
-// 
 let  vogais=['a','e','i','o',]
 let procurandoLetra='a'
 
